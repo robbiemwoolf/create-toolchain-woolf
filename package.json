@@ -13,6 +13,7 @@
     "create-react-app"
   ],
   "author": "Robbie Woolf",
+  "git repository": "https://github.com/robbiemwoolf/create-toolchain-woolf",
   "license": "ISC",
   "devDependencies": {
         "@babel/cli": "^7.1.0",
