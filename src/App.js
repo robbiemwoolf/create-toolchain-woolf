@@ -3,8 +3,9 @@ import './App.css';
 
 class App extends Component{
   render(){
+    console.log('App is now running!');
     return(
-        <h1>Your React App</h1>
+        <h1>Woolf React App</h1>
     );
   }
 }
